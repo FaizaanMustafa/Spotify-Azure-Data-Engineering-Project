@@ -1,0 +1,9 @@
+{
+	"name": "df-two",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "439431ce-6343-49f2-afa1-449841cdc47f",
+		"tenantId": "b3589f09-6fac-4512-b1c6-5a6d556cde5e"
+	}
+}
