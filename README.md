@@ -13,6 +13,8 @@
 
 # Methods
   ## Data Factory
+    1.Create two linked sevices one for azure sql db and another one for adls.
+    2.Create a copy activity under pipeline
 
 # Key Insights
 
